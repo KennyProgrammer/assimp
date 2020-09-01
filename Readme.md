@@ -1,4 +1,4 @@
-Open Asset Import Library (assimp)
+Open Asset Import Library (assimp) (CTXEngine)
 ==================================
 A library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
 ### Current project status ###
