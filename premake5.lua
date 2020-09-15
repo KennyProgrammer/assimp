@@ -12,7 +12,7 @@ project "Assimp"
 		"include/**.h",
 		"include/**.hpp",
 		"include/**.inl",
-		"lib/assimp-vc140-mt.lib"
+		"lib/assimp-vc142-mtd.lib"
 	}
 
 	includedirs
@@ -23,7 +23,7 @@ project "Assimp"
 	
 	links
 	{
-		"lib/assimp-vc140-mt.lib"
+		"lib/assimp-vc142-mtd.lib"
 	}
 
 	filter "system:windows"
